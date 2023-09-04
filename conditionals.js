@@ -9,9 +9,9 @@
 
 
 // 3. Implement the recommendation logic
-//     If the temperature is less than 50, recommend "Hot Chocolate Fudge".
-//     If the temperature is between 50 and 68 (inclusive), recommend "Caramel Crunch".
-//     If the temperature is greater than 68, recommend "Lemon Sorbet".
+// - If the temperature is less than 50, recommend "Hot Chocolate Fudge".
+// - If the temperature is between 50 and 68 (inclusive), recommend "Caramel Crunch".
+// - If the temperature is greater than 68, recommend "Lemon Sorbet".
 
 
 // 4. Console log the recommended flavor.
