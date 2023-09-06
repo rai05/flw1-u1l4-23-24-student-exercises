@@ -2,20 +2,9 @@
 
 # Table of Contents
 1. [Conditionals](#conditionals)
-   - [Introduction to Conditionals](#introduction-to-conditionals)
-   - [Conditional Syntax](#conditional-syntax)
-   - [Comparison Operators](#comparison-operators)
-   - [Truthy and Falsy](#truthy-and-falsy)
-   - [else-if Statements](#else-if-statements)
 2. [Compound Conditionals](#compound-conditionals)
-   - [Introduction to Compound Conditionals](#introduction-to-compound-conditionals)
-   - [Logical Operators](#logical-operators)
-   - [Task: Compound Conditionals Practice](#task-compound-conditionals-practice)
 3. [Asking Technical Questions](#asking-technical-questions)
 4. [Professional Portfolios](#professional-portfolios)
-   - [What is a Portfolio?](#what-is-a-portfolio)
-   - [Example Portfolios](#example-portfolios)
-5. [Replit: Uploading and Managing Files](#replit-uploading-and-managing-files)
 
 
 ## Conditionals 🔄
@@ -98,11 +87,6 @@ Example:
 - Compound conditionals help evaluate multiple conditions.
 - Properly communicating about your code is essential for collaboration and debugging.
 - A professional portfolio is a great tool for showcasing your skills and projects.
-
-## Resources
-- [Programiz JS Conditionals](https://cdn.programiz.com/sites/tutorial2program/files/js-if-else-statement.png)
-- [Compound Conditionals Image](https://miro.medium.com/max/1400/1*2EfYIrpo62-p2Lj0jWXdoA.png)
-- [Asking Technical Questions Image](https://simpleprogrammer.com/wp-content/uploads/2018/04/Top-50-Coding-Interview-Questions-1.png)
 
 Remember, always refer back to this README if you need a refresher on today's topics. 
 
