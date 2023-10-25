@@ -4,10 +4,10 @@
 
 
 // Change these values to test different scenarios
-let mood = "sad";        // Possible values: "happy", "sad", "excited", "bored"
-let timeOfDay = "night"; // Possible values: "morning", "afternoon", "evening", "night"
+let mood = "bored";    // Possible values: "happy", "sad", "excited", "bored"
+let timeOfDay = "afternoon"; // Possible values: "morning", "afternoon", "evening", "night"
 
-let recommendedMovie;
+let recommendedMovie = "Titanic";
 
 // 1. Implement the recommendation logic using compound conditionals
 // - If the user is "tired" OR it's "night", recommend "Relaxing Ambient Film".
@@ -15,7 +15,7 @@ let recommendedMovie;
 // - If the user is "bored" AND it's "afternoon" OR "happy" AND it's "evening", recommend "Engaging Mystery Film".
 // - In all other cases, recommend "Popular Choice Film".
 
-
+if (mood ="bored" & timeOfDay ="afternoon") {
 
 // 2. Console log the recommended movie
-
+console.log (recommendedMovie);
